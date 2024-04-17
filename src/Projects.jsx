@@ -23,9 +23,9 @@ const Projects=()=>{
   <div className="box">
     <div className="content exp-tra">
       <span>2023</span>
-      <h3>React,Redux CRUD Application</h3>
+      <h3>Animated car template</h3>
       <p>
-        <Link to='https://react-project-paklu5zb0-pranjal-shuklas-projects.vercel.app/'></Link>
+        <Link to='https://github.com/chitrashrivastava/final3--fortuner-'></Link>
         <Link to='https://github.com/chitrashrivastava/react-first-site'></Link>
 
       </p>
@@ -48,10 +48,9 @@ const Projects=()=>{
   <div className="box">
     <div className="content exp-tra">
       <span>2023</span>
-      <h3>Restaurant Website</h3>
+      <h3>Student management backend site</h3>
       <p>
-        <Link to='https://github.com/Pranjal826/What-s-App-Clone'>GitHub Repository</Link>
-        <Link to='https://www.linkedin.com/feed/update/urn:li:activity:7128817497591468032/'>See Video</Link>
+        <Link to='https://github.com/chitrashrivastava/school'>GitHub Repository</Link>
 
       </p>
     </div>
@@ -63,7 +62,7 @@ const Projects=()=>{
       <span>2023</span>
       <h3>Frontend Projects</h3>
       <p>
-        <Link to='https://github.com/Pranjal826/Links-to-landing-pages'>Click here to show</Link>
+        <Link to=''>Click here to show</Link>
       </p>
     </div>
 
@@ -72,10 +71,10 @@ const Projects=()=>{
   <div className="box">
     <div className="content exp-tra">
       <span>2023</span>
-      <h3>Expense Tracker</h3>
+      <h3>Ecommerce site</h3>
       <p>
-        <Link to='https://expense-tracker-brown-psi.vercel.app/'>Click here to show</Link>
-        <Link to='https://github.com/Pranjal826/Expense-Tracker'>GitHub Repository</Link>
+        <Link to='https://github.com/chitrashrivastava/ecommmers-site'>Click here to show</Link>
+        <Link to=''>GitHub Repository</Link>
 
       </p>
     </div>
@@ -84,9 +83,9 @@ const Projects=()=>{
   <div className="box">
     <div className="content exp-tra">
       <span>2023</span>
-      <h3>Heart Disease Prediction</h3>
+      <h3>React hotel Website</h3>
       <p>
-        <Link to='https://github.com/Pranjal826/Heart-Attack-Prediction'>GitHub Repository</Link>
+        <Link to='https://github.com/chitrashrivastava/react-hotel'>GitHub Repository</Link>
 
       </p>
     </div>
@@ -95,9 +94,9 @@ const Projects=()=>{
   <div className="box">
     <div className="content exp-tra">
       <span>2023</span>
-      <h3>Library Management System</h3>
+      <h3>Restaurent Website</h3>
       <p>
-        <Link to='https://www.linkedin.com/posts/pranjal-shukla-897967221_cricket-cricketanalysis-cricketenthusiast-activity-7121517839584305152-0nZB?utm_source=share&utm_medium=member_desktop'>See Video</Link>
+        <Link to='https://github.com/chitrashrivastava/Restau'></Link>
 
       </p>
     </div>
