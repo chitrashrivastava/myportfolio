@@ -25,7 +25,7 @@ const Projects=()=>{
       <span>2023</span>
       <h3>Animated car template</h3>
       <p>
-        <Link to='https://github.com/chitrashrivastava/final3--fortuner-'></Link>
+        <Link to='https://github.com/chitrashrivastava/final3--fortuner-'> GitHub Repository</Link>
         {/* <Link to='https://github.com/chitrashrivastava/react-first-site'></Link> */}
 
       </p>
@@ -37,8 +37,8 @@ const Projects=()=>{
       <span>2023</span>
       <h3>MakeUp Eccommerce Site</h3>
       <p>
-        <Link to='https://github.com/chitrashrivastava/MAKEUP'></Link>
-        {/* <Link to='https://glamaura.vercel.app'>Link </Link> */}
+        <Link to='https://github.com/chitrashrivastava/MAKEUP'>GitHub Repository</Link>
+        <Link to='https://glamaura.vercel.app'>Link </Link>
       </p>
     </div>
 
@@ -62,7 +62,7 @@ const Projects=()=>{
       <span>2023</span>
       <h3>Frontend Projects</h3>
       <p>
-        <Link to='https://github.com/chitrashrivastava/interior-design'>Click here to show</Link>
+        <Link to='https://github.com/chitrashrivastava/interior-design'>GitHub Repository</Link>
       </p>
     </div>
 
@@ -73,8 +73,8 @@ const Projects=()=>{
       <span>2023</span>
       <h3>Ecommerce site</h3>
       <p>
-        <Link to='https://github.com/chitrashrivastava/ecommmers-site'>Click here to show</Link>
-        <Link to=''>GitHub Repository</Link>
+        <Link to='https://github.com/chitrashrivastava/ecommmers-site'>GitHub Repository</Link>
+        {/* <Link to=''>GitHub Repository</Link> */}
 
       </p>
     </div>
@@ -96,7 +96,7 @@ const Projects=()=>{
       <span>2023</span>
       <h3>Restaurent Website</h3>
       <p>
-        <Link to='https://github.com/chitrashrivastava/Restau'></Link>
+        <Link to='https://github.com/chitrashrivastava/Restau'>GitHub Repository</Link>
 
       </p>
     </div>
