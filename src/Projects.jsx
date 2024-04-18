@@ -14,7 +14,7 @@ const Projects=()=>{
       <h3>Internshala Backend API</h3>
       <p>
         <Link to='https://github.com/chitrashrivastava/internshala-backend-main'>GitHub Repository</Link>
-        <Link to='https://www.linkedin.com/in/chitra-shrivastava-60878327a/'>See Video</Link>
+        {/* <Link to='https://www.linkedin.com/in/chitra-shrivastava-60878327a/'>See Video</Link> */}
 
       </p>
     </div>
@@ -26,7 +26,7 @@ const Projects=()=>{
       <h3>Animated car template</h3>
       <p>
         <Link to='https://github.com/chitrashrivastava/final3--fortuner-'></Link>
-        <Link to='https://github.com/chitrashrivastava/react-first-site'></Link>
+        {/* <Link to='https://github.com/chitrashrivastava/react-first-site'></Link> */}
 
       </p>
     </div>
