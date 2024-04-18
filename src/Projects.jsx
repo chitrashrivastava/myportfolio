@@ -11,9 +11,9 @@ const Projects=()=>{
 <div className="box">
     <div className="content exp-tra">
       <span>2024</span>
-      <h3>Internshala Clone</h3>
+      <h3>Internshala Backend API</h3>
       <p>
-        <Link to='https://github.com/chitrashrivastava'>GitHub Repository</Link>
+        <Link to='https://github.com/chitrashrivastava/internshala-backend-main'>GitHub Repository</Link>
         <Link to='https://www.linkedin.com/in/chitra-shrivastava-60878327a/'>See Video</Link>
 
       </p>
@@ -38,7 +38,7 @@ const Projects=()=>{
       <h3>MakeUp Eccommerce Site</h3>
       <p>
         <Link to='https://github.com/chitrashrivastava/MAKEUP'></Link>
-        <Link to='https://glamaura.vercel.app'>Link </Link>
+        {/* <Link to='https://glamaura.vercel.app'>Link </Link> */}
       </p>
     </div>
 
@@ -62,7 +62,7 @@ const Projects=()=>{
       <span>2023</span>
       <h3>Frontend Projects</h3>
       <p>
-        <Link to=''>Click here to show</Link>
+        <Link to='https://github.com/chitrashrivastava/interior-design'>Click here to show</Link>
       </p>
     </div>
 
